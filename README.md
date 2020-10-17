@@ -15,6 +15,10 @@ This app is for the people who need the up-to-date information of the weather. P
       [Back End Developers]  Zhiwei Cao Jiahe Jin
       [Front End Developers] Yunzhao Liu 
       [Test Engineer]        Minghao Zhou Liangqi Cai
+      
+**[Source]**
+
+Open Weather: https://openweathermap.org/current
 
 **[Installation]**
 
